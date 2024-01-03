@@ -8,7 +8,7 @@ html{
 
 * {
     scrollbar-width: thin;
-    scrollbar-color: var(--secondary) var(--primary);
+    scrollbar-color: transparent transparent;
   }
   
   /* Chrome, Edge, and Safari */
